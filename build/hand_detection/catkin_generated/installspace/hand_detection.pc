@@ -1,0 +1,8 @@
+prefix=/home/maxmurr/github/ros-hand-detect_ws/install
+
+Name: hand_detection
+Description: Description of hand_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
